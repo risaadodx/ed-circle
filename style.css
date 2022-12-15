@@ -3,3 +3,18 @@
 body {
   font-family: "Inter", sans-serif;
 }
+.primary {
+  color: rgba(16, 24, 40, 1);
+}
+.secondary {
+  color: #7f56d9;
+}
+.third {
+  color: #f9f5ff;
+}
+.btn-custom {
+  background-color: #7f56d9;
+  padding: 10px 16px 10px 16px;
+  border-radius: 8px;
+  color: #ffff;
+}
