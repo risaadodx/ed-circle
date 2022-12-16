@@ -18,3 +18,15 @@ body {
   border-radius: 8px;
   color: #ffff;
 }
+.btn-custom2 {
+  background-color: #7f56d9;
+  padding: 16px 28px 16px 28px;
+  border-radius: 8px;
+  color: #ffff;
+}
+.btn-custom3 {
+  background-color: #f9f5ff;
+  padding: 16px 28px 16px 28px;
+  border-radius: 8px;
+  color: #7f56d9;
+}
