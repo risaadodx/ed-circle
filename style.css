@@ -31,3 +31,9 @@ body {
   border-radius: 8px;
   color: #7f56d9;
 }
+.btn-custom4 {
+  background-color: #f9fafb;
+  padding: 10px 16px 10px 16px;
+  border-radius: 8px;
+  border: 1px solid #d0d5dd;
+}
